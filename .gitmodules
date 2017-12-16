@@ -1,0 +1,9 @@
+[submodule "2017_bunnybots"]
+	path = 2017_bunnybots
+	url = https://github.com/errorcodexero/katana
+[submodule "software_bot"]
+	path = software_bot
+	url = https://github.com/errorcodexero/theremin
+[submodule "2017"]
+	path = 2017
+	url = https://github.com/errorcodexero/chainsaw
